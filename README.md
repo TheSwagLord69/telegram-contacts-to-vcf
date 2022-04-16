@@ -8,7 +8,7 @@ Python 3
 
 ## Usage
 
-python telegram_export_contact_list_to_vcf.py [path of contacts.html]
+python telegram_export_contact_list_to_vcf.py [path of contacts.html]<br>
 E.g., python telegram_export_contact_list_to_vcf.py D:\Users\User1\Downloads\Telegram Desktop\DataExport_2022-01-17\lists\contacts.html
 
 ### How to export contacts from Telegram
