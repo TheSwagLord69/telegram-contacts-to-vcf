@@ -13,10 +13,12 @@ E.g., python telegram_export_contact_list_to_vcf.py D:\Users\User1\Downloads\Tel
 
 ### How to export contacts from Telegram
 
+Download Telegram Desktop and log in. <br>
 Using Telegram Desktop, <br>
 Settings > Advanced > Export Telegram Data > Check only "Contacts list"<br>
 For more details, view https[:]//www[.]quora[.]com/How-can-I-export-telegram-contacts
 
 ### Finding contacts.html
 
-After exporting, navigate to "Telegram Desktop\DataExport_YYYY_MM_DD\lists"
+After exporting, navigate to "Telegram Desktop\DataExport_YYYY_MM_DD\lists" <br>
+contacts.html should be in this directory.
