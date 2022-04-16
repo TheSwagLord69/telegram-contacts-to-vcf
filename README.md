@@ -2,6 +2,10 @@
 
 Converts the contacts exported from Telegram Web to a .vcf format for your phone to import the contacts.
 
+## Prerequisites
+
+Python 3
+
 ## Usage
 
 python telegram_export_contact_list_to_vcf.py [path of contacts.html]
