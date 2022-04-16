@@ -1,6 +1,6 @@
-# Telegram export contacts to vcf
+# Convert Telegram contacts to a .vcf
 
-Converts contacts exported from Telegram Web to a .vcf format for your phone to import contacts.
+Converts the contacts exported from Telegram Web to a .vcf format for your phone to import the contacts.
 
 ## Usage
 
