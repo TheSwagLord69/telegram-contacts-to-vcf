@@ -1,6 +1,6 @@
 # Telegram contacts to .vcf
 
-A simple script that converts the contacts exported from Telegram Web and creates a .vcf for your phone to import the contacts. <br>
+A simple Python 3 script that converts the contacts exported from Telegram Web and creates a .vcf for your phone to import the contacts. <br>
 
 ## Prerequisites
 
